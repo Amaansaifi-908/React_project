@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Lamothe",
+            "title": "Biden's 'no' on F-16s for Ukraine met with skepticism in Pentagon - The Washington Post",
+            "description": "The administration has exhibited a pattern of rejecting similar pleas from the government in Kyiv only to relent later.",
+            "url": "https://www.washingtonpost.com/national-security/2023/01/31/ukraine-f16-biden/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZ2NGFJDUS26EA4YVTJ4UCOOTI.JPG&w=1440",
+            "publishedAt": "2023-02-01T03:40:00Z",
+            "content": "Comment on this story\r\nPresident Bidens brusque refusal to fulfill Ukraines request for F-16 jets has been greeted with skepticism at the Pentagon, where some officials, citing the administrations pa… [+5884 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andi Babineau, Elizabeth Wolfe, Andy Rose",
+            "title": "Dallas Zoo's missing tamarin monkeys have been found in a closet, and investigators still want to find photographed man, police say - CNN",
+            "description": "Two emperor tamarin monkeys missing since Monday from the Dallas Zoo were found alive Tuesday in the closet of an abandoned Dallas-area home, officials said, and police say they still want to talk to a certain man in connection with the case.",
+            "url": "https://www.cnn.com/2023/01/31/us/dallas-zoo-tamarin-monkeys-missing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131082542-dallas-zoo-emperor-tamarin-monkey.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-01T03:30:00Z",
+            "content": "Two emperor tamarin monkeys missing since Monday from the Dallas Zoo were found alive Tuesday in the closet of an abandoned Dallas-area home, officials said, and police say they still want to talk to… [+4410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Charleston Post Courier"
+            },
+            "author": "By Schuyler Kropf skropf@postandcourier.com",
+            "title": "It's official: Nikki Haley running for president. Formal announcement Feb. 15 - Charleston Post Courier",
+            "description": "The confirmation she is committing to the race came from a member of Haley's inner circle Jan. 31.",
+            "url": "https://www.postandcourier.com/politics/its-official-nikki-haley-running-for-president-formal-announcement-feb-15/article_761b0b96-8c42-11ed-afdd-d330c30e8be3.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/8e/38eeb956-a1d8-11ed-a02d-7f33156d3c1f/63d9ce059bd3d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-02-01T02:45:00Z",
+            "content": "Cementing what has been in the works for months, former South Carolina Gov. Nikki Haley will formally announce she is running for president and will seek the Republican nomination for her party's 202… [+6012 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ella Nilsen",
+            "title": "California floated cutting major Southwest cities off Colorado River water before touching its agriculture supply, sources say - CNN",
+            "description": "The proposal came in a closed-door meeting between states that was focused on achieving unprecedented water cuts to save the Colorado River -- a system that overall provides water and electricity to more than 40 million people in the West -- people familiar w…",
+            "url": "https://www.cnn.com/2023/01/31/us/california-water-proposal-colorado-river-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130122433-all-american-canal-dec-5.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-01T02:17:00Z",
+            "content": "In a closed-door negotiation last week over the fate of the Colorado River, representatives from Californias powerful water districts proposed modeling what the basins future would look like if some … [+7289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Cynthia Littleton",
+            "title": "‘Dr. Phil’ Talk Show to End in Spring After 21 Seasons - Variety",
+            "description": "“Dr. Phil,” one of daytime TV’s stalwart talk shows, will end its run of original episodes in the spring after 21 seasons. Dr. Phil McGraw, 72, made the decision to stop producing…",
+            "url": "https://variety.com/2023/tv/news/dr-phil-talk-show-end-oprah-cbs-1235508811/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/08/Dr.PhilMcGrawandDanielle-e1660325019859.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-01T01:45:00Z",
+            "content": "“Dr. Phil,” one of daytime TV’s stalwart talk shows, will end its run of original episodes in the spring after 21 seasons.\r\nDr. Phil McGraw, 72, made the decision to stop producing new episodes at th… [+4438 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Lance Zierlein,Eric Edholm",
+            "title": "2023 Senior Bowl Day 1 standouts: BYU WR Puka Nacua impresses; center rising into Round 1? - NFL.com",
+            "description": "Which 2023 NFL Draft prospects helped themselves on Day 1 of Senior Bowl practice? Lance Zierlein and Eric Edholm provide a look at five stars from Tuesday and more takeaways from the all-star game.",
+            "url": "https://www.nfl.com/news/2023-senior-bowl-day-1-standouts-byu-wr-puka-nacua-impresses-center-rising-into-",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zxsy3fcn3zl9uepciuhb",
+            "publishedAt": "2023-02-01T01:43:00Z",
+            "content": "1) SMU's Rashee Rice gave up a nap to stand out on Tuesday.\r\nRice knows how to get open, and that trait was on the line at the end of Tuesday's practice.\r\nThe American team coaches pitted a series of… [+5354 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Canadian province tries decriminalizing drugs to fight overdose crisis - Reuters Canada",
+            "description": "The western Canadian province of British Columbia on Tuesday began a three-year pilot program to stop prosecuting people for carrying small amounts of heroin, meth, ecstasy, or crack cocaine, as part of an effort to fight a drug overdose crisis.",
+            "url": "https://www.reuters.com/world/americas/canadian-province-tries-decriminalizing-drugs-fight-overdose-crisis-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/JyWtcR-Wdd4TZkOmb3VVWFjmZhA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AOMVDKHS5JRPEVYXKXDR3UC2E.jpg",
+            "publishedAt": "2023-02-01T00:59:00Z",
+            "content": "VANCOUVER, Jan 31 (Reuters) - The western Canadian province of British Columbia on Tuesday began a three-year pilot program to stop prosecuting people for carrying small amounts of heroin, meth, ecst… [+2421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SportsLine"
+            },
+            "author": null,
+            "title": "Super Bowl 57 odds, line, prediction: Advanced computer model reveals Eagles vs. Chiefs picks against spread, total - SportsLine.com - SportsLine",
+            "description": "The NFC's Philadelphia Eagles will face the AFC's Kansas City Chiefs in Super Bowl 57 on Sunday, Feb. 12. Philadelphia (16-3) and Kansas City (16...",
+            "url": "https://www.sportsline.com/insiders/super-bowl-57-odds-line-prediction-advanced-computer-model-reveals-eagles-vs-chiefs-picks-against-spread-total/",
+            "urlToImage": "https://splnhub.cbsistatic.com/i/2021/01/03/a5984ac3-62ae-4e0e-b510-37f8da38d967/jalen-hurts.jpg",
+            "publishedAt": "2023-02-01T00:57:00Z",
+            "content": "The NFC's Philadelphia Eagles will face the AFC's Kansas City Chiefs in Super Bowl 57 on Sunday, Feb. 12. Philadelphia (16-3) and Kansas City (16-3) are the first No. 1 seeds to meet in the Super Bow… [+2380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "George Santos admits to lying; won't serve on House committees - Eyewitness News ABC7NY",
+            "description": "Rep. George Santos told House Republicans during a closed door meeting Tuesday morning that he would recuse himself from sitting on any committees. Chantee L...",
+            "url": "https://www.youtube.com/watch?v=da86PMSUeGk",
+            "urlToImage": "https://i.ytimg.com/vi/da86PMSUeGk/maxresdefault.jpg",
+            "publishedAt": "2023-02-01T00:40:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Benjamin Lee",
+            "title": "Andrea Riseborough’s Oscar nomination upheld after academy review - The Guardian",
+            "description": "British actor’s surprise inclusion in the best actress category will not be disqualified after accusations of unfair tactics although ‘responsible parties’ will be dealt with",
+            "url": "https://www.theguardian.com/film/2023/jan/31/andrea-riseborough-oscar-nomination-upheld",
+            "urlToImage": "https://i.guim.co.uk/img/media/cd608b40def52794a68e719016b7e9ee04e3aafc/0_88_3771_2263/master/3771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac31e31b48e20fb704cb5495ae78d76b",
+            "publishedAt": "2023-02-01T00:18:00Z",
+            "content": "Andrea Riseboroughs controversial Oscar nomination will not be taken away after an Academy review.\r\nThe British actor had been a surprise inclusion in this years best actress category for her perform… [+2412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ian Sherr",
+            "title": "Samsung Unpacked Live Updates: Galaxy S23 Reveal Expected - CNET",
+            "description": "Samsung is likely teeing up its next line of flagship Galaxy phones at its Feb. 1 event.",
+            "url": "https://www.cnet.com/news-live/samsung-unpacked-live-updates-galaxy-s23-reveal-expected/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/147cf7f2ee059fa8f7ad8485f8aa59def44b333a/hub/2023/01/23/2b120296-fc93-4a20-94ec-6574f8e7fcdf/unpacked-static-invite-2560x1440.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-02-01T00:14:00Z",
+            "content": "The Samsung Galaxy S22 Ultra was the company's flagship phone for 2022.\r\nSamsung/CNET\r\nWednesday's Samsung Unpacked is likely to mark the debut of the Galaxy S23 line, showcasing the company's next l… [+852 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Best",
+            "title": "NASA captures photo of 'bear's face' on the surface of Mars - Fox News",
+            "description": "NASA's Mars Reconnaissance Orbiter took a a photograph of a formation that resembles a bear's face on the surface of the Red Planet.",
+            "url": "https://www.foxnews.com/science/nasa-captures-photo-bears-face-surface-mars",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/bears-face.png",
+            "publishedAt": "2023-02-01T00:03:00Z",
+            "content": "A strange formation that resembles a bear's face was captured on the surface of the Red Planet by NASA's Mars Reconnaissance Orbiter last month. \r\nTwo perfectly placed craters make up the eyes, a hil… [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Cindy White",
+            "title": "All the newly announced DC projects coming to TV and film - The A.V. Club",
+            "description": "The new stewards of DC Studios have an extensive plan for films and TV series, from Superman and Supergirl to Swamp Thing and Booster Gold",
+            "url": "https://www.avclub.com/new-dc-projects-james-gunn-1850056259",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/78aa05091f01d75387dcc5ee2cbe1032.jpg",
+            "publishedAt": "2023-01-31T23:53:00Z",
+            "content": "When Warner Bros. tapped James Gunn and Peter Safran to run DC Studios, we expected theyd draw a new roadmap for the turbulent comics-to-film universe. Now that theyve revealed plans for their upcomi… [+978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Patrick Reilly",
+            "title": "Migrants turn NYC hotel into violent, drug-infested 'free-for-all': employee - New York Post ",
+            "description": "“Their self-entitlement is beyond belief,” Rodriguez continued. “They believe that… the hotel is theirs, and they’re going to do what they want.”",
+            "url": "https://nypost.com/2023/01/31/migrants-turn-nyc-hotel-into-violent-drug-infested-free-for-all-employee-says/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/newspress-collage-25579292-1675200862731.jpg?quality=75&strip=all&1675183368&w=1024",
+            "publishedAt": "2023-01-31T23:21:00Z",
+            "content": "A once-trendy Manhattan hotel has become a wild free-for-all of sex, drugs and violence after the city began housing migrants there, an employee claimed Tuesday.\r\nRow NYC worker Felipe Rodriguez — wh… [+3977 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Liedtke",
+            "title": "Elon Musk's Tesla tweet trial delves into investor damages - The Associated Press",
+            "description": "SAN FRANCISCO (AP) — An Elon Musk tweet declaring he had the financing to take Tesla private in 2018 caused billions of dollars in investor damages after the deal collapsed, according to estimates presented Tuesday at a trial examining the haphazard handling …",
+            "url": "https://apnews.com/e210e566f127f8f6507c0a537b03880d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/64f01f07d491479386395756997e96ea/3000.webp",
+            "publishedAt": "2023-01-31T23:18:07Z",
+            "content": "SAN FRANCISCO (AP) An Elon Musk tweet declaring he had the financing to take Tesla private in 2018 caused billions of dollars in investor damages after the deal collapsed, according to estimates pres… [+3575 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nicole Winfield, Jean-yves Kamale",
+            "title": "'Hands off Africa!': Pope blasts foreign plundering of Congo - The Associated Press - en Español",
+            "description": "KINSHASA, Congo (AP) — Pope Francis demanded Tuesday that foreign powers stop plundering Africa’s natural resources for the “poison of their own greed” as he arrived in Congo to a raucous welcome by Congolese grateful he was focusing the world’s attention on …",
+            "url": "https://apnews.com/article/pope-francis-africa-visit-church-future-88da9b59c681e8f04c756ff046b5a9c1",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ce863d6428174b86ac384aa09c5fb6dd/3000.webp",
+            "publishedAt": "2023-01-31T22:41:55Z",
+            "content": "KINSHASA, Congo (AP) Pope Francis demanded Tuesday that foreign powers stop plundering Africas natural resources for the poison of their own greed as he arrived in Congo to a raucous welcome by Congo… [+7161 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Larry Fitzmaurice",
+            "title": "Ashton Kutcher On Demi Moore Divorce And Pregnancy Loss - BuzzFeed",
+            "description": "“Nothing makes you feel like a failure like divorce...you failed at marriage.\"",
+            "url": "https://www.buzzfeed.com/larryfitzmaurice/ashton-kutcher-demi-moore-divorce-humiliating",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-01/31/22/enhanced/255ede5bfcf0/original-1184-1675202433-10.jpg?crop=1243:651;0,0%26downsize=1250:*",
+            "publishedAt": "2023-01-31T22:13:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The \"Green Comet\" Passes by Earth - WPRI",
+            "description": "The \"Green Comet\" will be its closest to Earth on February 2.  It is believed the comet has not been seen for 50,000 years.  Local photographers captured out...",
+            "url": "https://www.youtube.com/watch?v=4-Ftn4mmhdE",
+            "urlToImage": "https://i.ytimg.com/vi/4-Ftn4mmhdE/maxresdefault.jpg",
+            "publishedAt": "2023-01-31T22:09:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Shalise Manza Young",
+            "title": "Historic Super Bowl of Patrick Mahomes vs. Jalen Hurts is indeed a big deal in NFL's story of Black QBs - Yahoo Sports",
+            "description": "Progress does not come easily or even quickly to the NFL. But this is a sign of progress.",
+            "url": "https://sports.yahoo.com/historic-super-bowl-of-patrick-mahomes-vs-jalen-hurts-is-indeed-a-big-deal-in-nfls-story-of-black-qbs-220521350.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/23QVzdxyjpRTmYQvVAf6CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/d0aea330-a1b2-11ed-bb7e-5a683f00c4e7",
+            "publishedAt": "2023-01-31T22:05:21Z",
+            "content": "Thirty-five years ago Tuesday, Doug Williams made history. He became the first Black quarterback to start a Super Bowl, leading Washington to a 42-10 win over Denver that included a stunning 35-point… [+7010 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte",
+            "title": "Ultraprocessed foods linked to ovarian and other cancer deaths, study finds - CNN",
+            "description": "Cancer risk and mortality, especially for ovarian cancer, rose as more ultraprocessed foods were eaten, a new study found.",
+            "url": "https://www.cnn.com/2023/01/31/health/ultraprocessed-foods-cancer-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130112522-women-eating-pizza-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-31T22:01:00Z",
+            "content": "Editors Note: Sign up for CNNs Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life. \r\nEating more ultr… [+5376 chars]"
+        }
+    ]
+}
